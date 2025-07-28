@@ -232,6 +232,11 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  - scope:
+      path: ""
+      type: ""
+    values:
+      author_profile: false
   # _posts
   - scope:
       path: ""
