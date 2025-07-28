@@ -3,7 +3,7 @@ layout: splash
 title: "Xinyi Wang"
 subtitle: "Ph.D. Student in Economics <br> University of Birmingham"
 header:
-  overlay_image: /images/header.jpg
+  overlay_image: https://source.unsplash.com/1600x900/?university,building
   overlay_filter: 0.3
   overlay_color: "#000"
   caption: ""
